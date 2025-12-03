@@ -1,9 +1,9 @@
 # 👋 Hi, I'm **Miguel Felix C. Almirol**
 
 ## 🎓 Education
-- BS Information Technology
+- 3rd Year BS Information Technology
   
-*📚New Era University 2025-Present*
+*📚New Era University 2024-Present*
 
 ## 🏆 Certifications
 - 📒 *[SQL & Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0e8a3693a87945cc9b3f2547227cde16)*

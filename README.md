@@ -16,4 +16,5 @@
 - 💾*Databases:* SQL  
 - ⚙️*Tools:* Lucidchart, Eclipse. Figma, VS Code
 - 🌐*Web:* HTML, CSS
+- 🎹*Talents*: Piano, Guitar, Beatbox
 
